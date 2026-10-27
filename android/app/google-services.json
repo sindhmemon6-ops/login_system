@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "644679857042",
+    "project_id": "hack1-6ae9c",
+    "storage_bucket": "hack1-6ae9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644679857042:android:91600fee2403d4012c474b",
+        "android_client_info": {
+          "package_name": "S_P.hack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LuymDxPS1WYa_QyBVQSOemMhDnCeIZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644679857042:android:05c5a6503bf6ef1d2c474b",
+        "android_client_info": {
+          "package_name": "com.loginsystem.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LuymDxPS1WYa_QyBVQSOemMhDnCeIZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644679857042:android:05c5a6503bf6ef1d2c474b",
+        "android_client_info": {
+          "package_name": "com.example.poject_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LuymDxPS1WYa_QyBVQSOemMhDnCeIZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
